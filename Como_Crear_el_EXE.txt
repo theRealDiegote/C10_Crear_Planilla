@@ -1,0 +1,7 @@
+1-Te debes ir a la carpeta donde está el fuente
+2-Abrir un CMD
+3-Luego poner la siguiente instruccion "pyinstaller --onefile -w [nombrefuente.py]
+4-Ejecutar
+5- Se cre una carpeta Dist y ahi dentro está el ejecutable.
+Ejemplo
+C:\CF\CF_Python\C10_Crear_Planilla>pyinstaller --onefile -w crear_planilla.py
